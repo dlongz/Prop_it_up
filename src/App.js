@@ -32,6 +32,8 @@ function App() {
         hColor={ 'Pink' }
 
       />
+
+      {/* <button onClick={ ()=> alert("This button has been clicked!") }>Click Me</button> */}
     </div>
   );
 }
